@@ -4,11 +4,11 @@
         "img": false
     },
     "3:CRUDO EMEZETA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
         "img": false
     },
     "4:JAMON NATIVO EMEZETA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
         "img": false
     },
     "5:FIAMBRE DE JAMON COCIDO GRANDE": {

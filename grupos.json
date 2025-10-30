@@ -1,11 +1,11 @@
 {
     "Peipo": {
         "sin_tacc": false,
-        "color": "#FF0000",
+        "color": false,
         "img": false
     },
     "Quesada": {
-        "sin_tacc": true,
+        "sin_tacc": false,
         "color": false,
         "img": false
     },
@@ -77,7 +77,7 @@
     "Calchaqui": {
         "sin_tacc": false,
         "color": false,
-        "img": "calchaqui.jpg"
+        "img": false
     },
     "Bocatti": {
         "sin_tacc": false,
