@@ -5,12 +5,12 @@
         "img": false
     },
     "Quesada": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "color": false,
         "img": false
     },
     "Emezeta": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "color": false,
         "img": false
     },
