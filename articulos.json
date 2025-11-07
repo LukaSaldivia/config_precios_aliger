@@ -124,7 +124,7 @@
         "img": false
     },
     "33:MORTADELA CAÑON CALCHAQUI": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "34:BONDIOLA CALCHAQUI": {
