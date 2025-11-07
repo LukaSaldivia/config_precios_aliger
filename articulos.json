@@ -120,7 +120,7 @@
         "img": false
     },
     "32:MORTADELA BOCHA CALCHAQUI": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "33:MORTADELA CAÑON CALCHAQUI": {
@@ -128,7 +128,7 @@
         "img": false
     },
     "34:BONDIOLA CALCHAQUI": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "35:PANCETA AHUMADA CALCHAQUI": {
@@ -148,15 +148,15 @@
         "img": false
     },
     "39:DULCE DE MEMBRILLO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "40:DULCE DE BATATA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "41:DULCE DE BATATA C/CHOC": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "42:GRASA VACUNA": {
@@ -164,7 +164,7 @@
         "img": false
     },
     "43:GRASA DE CERDO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "44:PALETA PIARA": {
@@ -248,11 +248,11 @@
         "img": false
     },
     "64:MANTECA X100GR CLUCELAT": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "65:MANTECA X200GR CLUCELAT": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "66:MUZZA CILINDRO QUESADA": {
@@ -504,11 +504,11 @@
         "img": false
     },
     "128:QUESO AZUL 1/2 ALLOA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "129:QUESO AZUL ALLOA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "130:LATA DE TOMATE X8KG": {
@@ -892,7 +892,7 @@
         "img": false
     },
     "225:TOMATE PERITA X 400": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "226:JABON EN POLVO ALA ECOLAVADO X400": {
@@ -984,7 +984,7 @@
         "img": false
     },
     "248:DURAZNO X 820": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "249:JARDINERA X 350": {
@@ -1144,7 +1144,7 @@
         "img": false
     },
     "288:PURE DE TOMATE ALCO X520": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "289:ARROZ DON MARCOS X500": {
@@ -1168,15 +1168,15 @@
         "img": false
     },
     "294:BATATA LATA VLLA.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "295:BATATA LATA C/CHOC.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "296:MEMBRILLO LATA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "297:PALETA IL MOLISE": {
@@ -1228,7 +1228,7 @@
         "img": false
     },
     "309:BATATA C/GUINDAS": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "310:BARRA PUNTA DEL AGUA": {
@@ -1468,15 +1468,15 @@
         "img": false
     },
     "369:QUESO RALLADO X 40 GRS.LA QUESERA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "370:BARRA CHEDDAR LA QUESERA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "371:GRUYERE CUÑA LA QUESERA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "372:MIXTO CON SALAME LA QUESERA": {
@@ -1624,7 +1624,7 @@
         "img": false
     },
     "408:MERMELADA POTE DURAZNO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "409:PALETA MINI S/GR.MZ": {
@@ -1676,27 +1676,27 @@
         "img": false
     },
     "421:MERMELADA FRUTILLA DULCOR FRASCO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "422:MERMELADA HIGO DULCOR FRASCO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "423:MERMELADA DURAZNO DULCOR FRASCO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "424:MERMELADA CIRUELA FRASCO DULCOR": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "425:MERMELADA NARANJA DULCOR FRASCO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "426:MERMELADA DAMASCO DULCOR FRASCO": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "427:PALETA DE CERDO W": {
@@ -1784,15 +1784,15 @@
         "img": false
     },
     "448:BATATA CON CHOCOLATE X 2 KG": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "449:BATATA VLLA.X 2 KG.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "450:MEMBRILLO X 2 KG.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "451:BATATA CON CHOCOLATE X 700": {
@@ -2044,7 +2044,7 @@
         "img": false
     },
     "513:MANTECOL CLASICO X 111 GRS.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "514:MANTECOL C/ALM.X 3.4 KG": {
@@ -2052,11 +2052,11 @@
         "img": false
     },
     "515:MANTECOL CLASICO X 253 GRS.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "516:MANTECOL LINGOTE X 500 GRS.": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "517:CILO CON CHIPS X 300 GRS": {
