@@ -1480,7 +1480,7 @@
         "img": false
     },
     "372:MIXTO CON SALAME LA QUESERA": {
-        "sin_tacc": false,
+        "sin_tacc": true,
         "img": false
     },
     "373:CONITOS CON QUESO X 800": {
