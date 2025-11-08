@@ -2070,5 +2070,21 @@
     "519:BONDIOLA CONGELADA PALADINI": {
         "sin_tacc": false,
         "img": false
+    },
+    "495:MUZZA PLANCHA GAUCHITA": {
+        "sin_tacc": false,
+        "img": false
+    },
+    "539:CREMOSO GAUCHITA": {
+        "sin_tacc": false,
+        "img": false
+    },
+    "540:MUZZARELLA GAUCHITA": {
+        "sin_tacc": false,
+        "img": false
+    },
+    "541:SARDO FRESCO GAUCHITA": {
+        "sin_tacc": false,
+        "img": false
     }
 }

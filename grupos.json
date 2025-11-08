@@ -283,5 +283,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "La Gauchita" : {
+        "sin_tacc": false,
+        "color" : false,
+        "img" : false
     }
 }
