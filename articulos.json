@@ -1,170 +1,212 @@
 {
     "1:PAPA COMUN X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "3:CRUDO EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "4:JAMON NATIVO EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "5:FIAMBRE DE JAMON COCIDO GRANDE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "6:PALETA MINI EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "7:LOMO CANADIENSE EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "8:MILAN LARGO EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "9:BASTON EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "10:BONDIOLA EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "11:PANCETA AHUM C/C EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "12:PANCETA TIERNIZADA EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "13:PANCETA SALADA EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "14:SALCHICHON C/JAMON EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "15:SALCHICHON PRIMAVERA EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "16:MORTADELA EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "17:ADOBO X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "18:AJI MOLIDO X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "19:COMINO X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "20:CHIMICHURRI X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "21:NUEZ MOSCADA MOLIDA X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "22:NUEZ MOSCADA X2 UN.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "23:OREGANO X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "24:PIMENTON X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "25:PIMIENTA BLANCA X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "26:PIM NEGRA EN GRANO X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "27:PIM NEGRA MOLIDA X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "28:PROVENZAL X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "29:SALSA BLANCA X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "30:ESPECIAS SURTIDAS X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "31:POLVO PARA HORNEAR X50GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "32:MORTADELA BOCHA CALCHAQUI": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "33:MORTADELA CAÑON CALCHAQUI": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "34:BONDIOLA CALCHAQUI": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "35:PANCETA AHUMADA CALCHAQUI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "36:MORTADELA GIG. CALCHAQUI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "37:JAMON COCIDO BOCATTI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "38:MORTADELA C/PIST CALCHAQUI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "39:DULCE DE MEMBRILLO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "40:DULCE DE BATATA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "41:DULCE DE BATATA C/CHOC": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "42:GRASA VACUNA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "43:GRASA DE CERDO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "44:PALETA PIARA": {
@@ -173,6 +215,7 @@
     },
     "45:MORTADELA X4.5KG PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "46:VIENA X6 FELA PALADINI": {
@@ -181,94 +224,117 @@
     },
     "47:PAPAS CORTE AMERICANO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "48:PAPAS PAY PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "49:PALITOS SALADOS PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "50:MORTADELA FAM. PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "51:MORTADELA X 2.5KG PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "52:MANI SALADO PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "53:MANI C/CASCARA PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "54:BOLITAS CROCANTES PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "55:PIZZA ROLLS PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "56:MAIZ INFLADO PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "57:MANI REPELADO PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "58:TUBITOS PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "59:BARRA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "60:CREMOSO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "61:CRIOLLO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "62:FONTINA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "63:GOUDA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "64:MANTECA X100GR CLUCELAT": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "65:MANTECA X200GR CLUCELAT": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "66:MUZZA CILINDRO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "67:PATEGRAS QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "68:POR SALUT QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "69:POR SALUT S/S QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "70:QUESO AZUL EMPERADOR": {
@@ -277,10 +343,12 @@
     },
     "71:SARDO ALIGER": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "72:PATEGRAS ALIGER": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "73:ROMANITO ALIGER": {
@@ -289,26 +357,32 @@
     },
     "74:BARRA ALIGER": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "75:REGGIANO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "76:ROMANITO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "77:SARDO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "78:CREMA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "79:PARMESANO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "80:BARRA CHEDDAR SPALEN": {
@@ -321,134 +395,167 @@
     },
     "82:FRASCO X1.8KG 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "83:FRASCO X2KG 00": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "84:FRASCO X2KG 000": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "85:FRASCO X1.8KG RODAJAS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "86:FRASCO X2KG DESC 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "87:FRASCO X2KG DESC 00": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "88:FRASCO X2KG RELLENA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "89:FRASCO X1KG 00": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "90:FRASCO NEGRA X2KG 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "91:FRASCO NEGRA X2KG 00": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "92:FRASCO NEGRA X1KG 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "93:BIDON X4.6KG 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "94:BIDON X4.6KG 00": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "95:BIDON X4.6KG 000": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "96:BIDON DESC X4KG 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "97:BIDON DESC X4KG 00": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "98:BIDON RODAJA X4KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "99:BIDON NEGRA X4.6K 0": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "100:BIDON ROTA X5KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "101:AJI EN VINAGRE X900GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "102:BIDON NEGRA ROD X4KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "103:BIDON X4.6KG 1": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "104:BIDON X4.6KG 2": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "105:BIDON NEGRA DESC X4KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "106:BIDON X4.6KG RELLENA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "107:FRASCO NEGRA DESC X2KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "108:BIDON X4.6KG 3": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "109:MANI CROCANTE CLASICO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "110:MANI CROCANTE SABOR JAMON": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "111:MANI CROCANTE SABOR SALAME": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "112:MANI CROCANTE SABOR PIZZA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "113:MANI CROCANTE SABOR QUESO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "114:MANI CROCANTE SABOR PROVENZAL": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "115:CRUDO EL ARTESANO": {
@@ -457,6 +564,7 @@
     },
     "116:ANCHOAS X90GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "117:ANCHOAS X 90G": {
@@ -465,30 +573,37 @@
     },
     "118:ANCHOAS 60 X 3": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "119:ANCHOAS 18 X 3": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "120:ANCHOAS 30 X 3": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "121:ANCHOAS X1.5KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "122:CRUDO W": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "123:BONDIOLA W": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "124:PALETA P/EMP.W": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "125:CREMOSO PUNTA DEL AGUA": {
@@ -497,58 +612,72 @@
     },
     "126:MATAMBRE FEPA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "127:POLLO FEPA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "128:QUESO AZUL 1/2 ALLOA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "129:QUESO AZUL ALLOA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "130:LATA DE TOMATE X8KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "131:BOTELLA TOMATE ROD AC": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "132:MANI REPELADO CRIS JOR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "133:MUZZA BARRA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "134:MILANCITO EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "135:MAYONESA X2.9 HELLMANS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "136:MAYONESA MONOPORCION": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "137:SACHET X 100 NATURAL SHOP": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "138:SACHET X 100 CHIRO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "139:DULCE DE LECHE LA JUANITA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "140:CREMOSO LA JUANITA": {
@@ -557,6 +686,7 @@
     },
     "141:SACHET X100 DESC NATURAL SHOP": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "142:CREMOSO POZZI": {
@@ -565,10 +695,12 @@
     },
     "143:PAPEL HIGIENICO CAVADE X 4X 30 MTS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "144:CREMOSO LA JUANITA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "145:CREMOSO JUANITA     BORRAR": {
@@ -577,30 +709,37 @@
     },
     "146:CREMOSO 1/2 QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "147:QUESO AZUL 1/2 EMPERADOR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "148:ADOBO P/PIZZAS X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "149:OREGANO X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "150:PIMENTON X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "151:AJI MOLIDO X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "152:PROVENZAL X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "153:TOMATE BOTELLA GALLARDO": {
@@ -609,10 +748,12 @@
     },
     "154:MANTECA X 2.5 KG CLUCELAT": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "155:POSTRE DCE.LECHE C/CHOC.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "156:QUESO DE CERDO B.SIERRAS": {
@@ -621,50 +762,62 @@
     },
     "157:VIENA X 6 FELA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "158:COPETIN X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "159:CIRUELAS SECAS X 250 C/C": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "160:CIRUELAS X 250 D'AGEN S/C": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "161:BICARBONATO X 50 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "162:ALGODON DONCELLA X 70 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "163:KETCHUP HELLMAN`S X 60 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "164:LAVANDINA LIMPIALIN X 1 LT.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "165:LAVANDINA LIMPIALIN X 2 L.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "166:LAMPARAS LED 60 W": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "167:PALILLOS IMPACTO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "168:VIRULANA ROLLO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "169:ROLLO DE COCINA 3X40 COLOSO": {
@@ -673,10 +826,12 @@
     },
     "170:BOLSAS ZELNOVA 45 X 60": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "171:BOLSAS ZELNOVA 80 X 110": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "172:EXTRACTO VAINILLA X 28 CC": {
@@ -685,38 +840,47 @@
     },
     "173:AZUCAR LA DULCITA X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "174:SAVORA SACHET X60": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "175:SAVORA X 250 D/P": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "176:SALSA GOLF NATURA X 250": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "177:KETCHUP HELLMAN´S X 250 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "178:SAL GRUESA TRESAL X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "179:CAFE LA VIRGINIA SAQUITOS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "180:CAPUCHINO VIRGINIA SOBRE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "181:CALDO VERDURA KNORR X 2": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "182:PURE MAROLIO X 520": {
@@ -725,6 +889,7 @@
     },
     "183:LEVADURA LEVEX 2 X 25": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "184:QUESO DE CERDO EL TRIUNFO": {
@@ -737,54 +902,67 @@
     },
     "186:MARGARINA MASA PILON": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "187:YERBA MATE TARAGUI X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "188:YERBA MATE ANDRESITO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "189:ACEITE NATURA X900": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "190:VINAGRE BLANCO X 1 L.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "191:JABON SEISEME X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "192:MAYONESA MENOYO X 100": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "193:FIDEO NIDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "194:HARINA P/PIZZA PUREZA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "195:JUGO DE LIMON MINERVA X 250": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "196:VINAGRE DE ALCOHOL X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "197:NESQUIK X 180": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "198:HARINA COMUN 0000 PUREZA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "199:LECHE ENTERA ILOLAY": {
@@ -793,10 +971,12 @@
     },
     "200:TOMATE X8 COUPER": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "201:MORRON X 800": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "202:CANTIMPALO PARA MAQUINA": {
@@ -805,66 +985,82 @@
     },
     "203:MORRON X 185": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "204:COCO RALLADO X1KG AYS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "205:PIM BLANCA MOLIDA X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "206:PASAS DE UVA S/SEMILLA X 100": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "207:TOMATE POUCH": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "208:PAPA CHEDDAR PEIPO X 330": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "209:KETCHUP MONOP.HELLMAN´S": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "210:JABON LIQUIDO ZELNOVA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "211:ALA DETERGENTE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "212:LAVANDINA AYUDIN 1L": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "213:ALCOHOL PURO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "214:ALCOHOL DE QUEMAR X 1L": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "215:REJILLA SUIZA 34X38": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "216:PATE ECONOMICO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "217:MAYONESA NATURA X 250": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "218:TE COMUN LA VIRGINIA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "219:OREGANO ALICANTE X 25": {
@@ -873,130 +1069,162 @@
     },
     "220:FIDEO GUISERO SOL PAMPEANO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "221:YERBA CBSE TRADICIONAL X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "222:LECHE ENTERA VERONICA LV": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "223:FIDEO MOSTACHOL SOL PAMPEANO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "224:YERBA PLAYADITO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "225:TOMATE PERITA X 400": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "226:JABON EN POLVO ALA ECOLAVADO X400": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "227:HARINA LEUDANTE PUREZA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "228:ARROZ X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "229:HARINA COMUN 0000 U/REF PUREZA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "230:POROTOS MOLTO X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "231:LENTEJAS INALPA X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "232:HARINA COMUN 000 PUREZA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "233:PIMENTON ALICANTE X 25": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "234:CONDIMENTO P/ARROZ": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "235:GALLETITAS LA PROVIDENCIA X 3": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "236:DON SATUR BIZC. NEGRITOS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "237:DON SATUR BIZC. GRASA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "238:CHOCOLINO X 180": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "239:YERBA AMANDA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "240:BIDON PICKLE X4.6KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "241:ESPECIES SURTIDA X1KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "242:EXTRACTO DE VAIN AYS X100CC": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "243:AZUCAR IMPALPABLE X1KG AYS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "244:FECULA DE MAIZ AYS X1KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "245:CAFE EN SAQ. CABRALES X18": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "246:CAFE EN SAQ. LA PLANTA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "247:BOLSAS ZELNOVA 60X90": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "248:DURAZNO X 820": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "249:JARDINERA X 350": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "250:SAL FINA TRESAL X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "251:SAL GRUESA 2 ANCLAS X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "252:SAL FINA CELUSAL X 500": {
@@ -1005,18 +1233,22 @@
     },
     "253:FIDEO TALLARIN SOL PAMPEANO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "254:LIMP LIQ HEROO X900 PINO SILV": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "255:ARVEJA X 300 INALPA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "256:FIDEO TIRABUZON SOL PAMPEANO X500G": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "257:VIÑA DE BALBO TINTO": {
@@ -1025,6 +1257,7 @@
     },
     "258:TE TARAGUI MANZANILLA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "259:TE TARAGUI S/ENSOBRAR": {
@@ -1033,18 +1266,22 @@
     },
     "260:TE TAGARAGUI BOLDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "261:CILO ANILLO LIMON X400": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "262:CILO ANILLO VAINILLA X400": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "263:GALLETITA PEPAS X400": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "264:LECHE ENTERA VERONICA LV": {
@@ -1053,18 +1290,22 @@
     },
     "265:LECHE DESCREMADA VERONICA LV": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "266:PALETA PALADINI X6KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "267:TE TARAGUI COMUN": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "268:CANELA MOLIDA X25": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "269:ROLLO DE COC. X200 PAÑOS CAVADE": {
@@ -1077,10 +1318,12 @@
     },
     "271:VINAGRE MANZANA X 500ML": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "272:ESPONJA DORADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "273:ROLLO DE COCINA FELPITA": {
@@ -1089,10 +1332,12 @@
     },
     "274:MAIZ PISINGALLO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "275:MATAMBRE TRIUNFO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "276:MANTECA X 100 PRIMER PREMIO": {
@@ -1109,22 +1354,27 @@
     },
     "279:CHIMICHURRI X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "280:MERMELADA CORMILLOT DURAZNO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "281:HILERET CLASICO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "282:BARRA SABORIZADA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "283:ANCHOAS 40X3": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "284:ROLLO DE COCINA CARRITE 12X200": {
@@ -1133,50 +1383,62 @@
     },
     "285:YERBA UNION X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "286:FIDEO CELENTANO SOL PAMP": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "287:FIDEO SPAGHETTI SOL PAMP": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "288:PURE DE TOMATE ALCO X520": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "289:ARROZ DON MARCOS X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "290:VAINILLA POZO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "291:TE LA VIRGINIA MANZANILLA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "292:DON SATUR BIZC. AGRIDULCE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "293:ESPONJA AMARILLA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "294:BATATA LATA VLLA.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "295:BATATA LATA C/CHOC.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "296:MEMBRILLO LATA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "297:PALETA IL MOLISE": {
@@ -1193,26 +1455,32 @@
     },
     "300:CHOCLO X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "301:YERBA TARAGÜI X 500 SIN PALO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "302:MAYONESA NATURA X 125": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "303:PURE DE PAPAS MAGGI X 125": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "304:MAYONESA MENOYO X 250": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "305:TE TARAGÜI PLACERES VERDE HIGO X 25": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "306:MANTECA PILON TONADITA": {
@@ -1221,14 +1489,17 @@
     },
     "307:JABON EN POLVO ZORRO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "308:CREMOSO ABUELO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "309:BATATA C/GUINDAS": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "310:BARRA PUNTA DEL AGUA": {
@@ -1237,74 +1508,92 @@
     },
     "311:TRAPO DE PISO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "312:MAYONESA MENOYO 2.700CC": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "313:REJILLA PARA COCHE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "314:REGIANO MITADES": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "315:PARMESANO MITAD": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "316:FIBROESPONJA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "317:CAFE INSTANTANEO LA VIRGINIA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "318:JAMON BOLON 3783": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "319:AZUCAR IMPALPABLE X 200": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "320:COCO RALLADO X 25 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "321:MATAMBRE PREMIUN EL CRIOLLITO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "322:MATAMBRE EL CRIOLLITO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "323:PASAS SIN SEMILLA X 10 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "324:PANCETA ARROLLADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "325:SACHET DESC.X 100 CHIRO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "326:SACHET RELLENA CHIRO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "327:COCA COLA X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "328:HARINA 000 CAÑUELA X1KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "329:DURAZNO ELISA EN MIT X800": {
@@ -1313,6 +1602,7 @@
     },
     "330:LIMPIADOR POETT": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "331:ANCHOAS X 750 GRS.": {
@@ -1321,38 +1611,47 @@
     },
     "332:SARDO ESTACIONADO ABUELO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "333:GOUDA ABUELO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "334:SALAME COLORADO DON LUIS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "335:PECHERA DON LUIS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "336:LONGA CALABRESA DON LUIS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "337:SALAME DON LUIS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "338:LAMPARAS LED 100 W": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "339:FIDEO FUSSARELLO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "340:VIENA X 6 PALDINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "341:JAMON COCIDO CAMPO GRANDE": {
@@ -1369,46 +1668,57 @@
     },
     "344:ARROZ X1KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "345:ACEITE DE OLIVA X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "346:RELLENA GOURMET X 200": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "347:GARRAPIÑADA DE MANI X 80 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "348:GARRAPIÑADA C/CH.X 80 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "349:CONFITES DE MANI X 150 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "350:MANI CON CHOCOLATE X 80 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "351:CEREAL CON CHOCOLATE X 80 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "352:GARRAPIÑADA DE ALMENDRA X 80 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "353:ALMENDRAS CON CHOCOLATE X 100 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "354:PASAS DE UVA CON CHOCOLATE X 100 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "355:AJI MOLIDO CENTURION": {
@@ -1417,34 +1727,42 @@
     },
     "356:NUEZ PELADA MARIPOSA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "357:LEBERWURST X 250 GRS.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "358:CAJA NAVIDEÑA Nº4": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "359:ACEITE MOLTO GIRASOL X900": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "360:ACETO BALSAMICO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "361:SALSA CAESAR X 285": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "362:SALSA CHEDDAR SACHET": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "363:LOMO AHUMADO EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "364:ROLLO DE COCINA X 6": {
@@ -1453,42 +1771,52 @@
     },
     "365:PALETA CUADRADA EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "366:MANI JAPONES X 700 PEIPO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "367:LIMON MINERVA X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "368:ESPONJA ACERO SED METAL": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "369:QUESO RALLADO X 40 GRS.LA QUESERA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "370:BARRA CHEDDAR LA QUESERA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "371:GRUYERE CUÑA LA QUESERA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "372:MIXTO CON SALAME LA QUESERA": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "373:CONITOS CON QUESO X 800": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "374:JAMON COCIDO PALADINI X 6 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "375:BASTON IL MOLISE": {
@@ -1497,38 +1825,47 @@
     },
     "376:INSECTICIDA FUYI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "377:ESCOBILLON MAPUCHE 4H EC": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "378:FIDEO RIGATTIS SOL PAMP": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "379:ACEITE MOLINO CAÑUELAS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "380:CRUDO ARTESANAL DON ALEJANDRO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "381:COMINO X 1 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "382:FECULA DE MAIZ X 200": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "383:SABORIZADO QUESADA X 700": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "384:ARROZ AMANDA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "385:MORTADELA PICCOLA CALCHAQUI": {
@@ -1537,22 +1874,27 @@
     },
     "386:PERNIL MINI EMEZETA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "387:MIX CRIOLLO X 10": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "388:MIX FRUTOS SECOS X 10": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "389:MIX FUERTE X 10": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "390:MIX EUROPEO X 10": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "391:MIX P/ENSALADA X 1": {
@@ -1561,6 +1903,7 @@
     },
     "392:YERBA MAÑANITA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "393:PATA DE CERDO BUENAS SIERRAS": {
@@ -1585,18 +1928,22 @@
     },
     "398:MILAN TIVOLI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "399:MILAN FELA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "400:BONDIOLA PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "401:MILAN CORTO MZ": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "402:BARRIL MZ": {
@@ -1605,18 +1952,22 @@
     },
     "403:TRAPO GRIS B-AIRE/JULIET": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "404:TOCADOR PLUSBELLE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "405:NATURA SALSA GOLF X125": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "406:JUGO BAGGIO X250": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "407:LENTEJAS LATA MAROLIO X300": {
@@ -1624,7 +1975,8 @@
         "img": false
     },
     "408:MERMELADA POTE DURAZNO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "409:PALETA MINI S/GR.MZ": {
@@ -1633,198 +1985,247 @@
     },
     "410:AJO GRANULADO X 25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "411:YERBA CBSE LIMON X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "412:YERBA CBSE NARANJA X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "413:TE LA VIRGINIA BOLDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "414:CALDO MAGGI WILDE X2": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "415:SAVORA MONOPORCION": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "416:CILO PEPAS X400": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "417:BONDIOLA AL VACIO 1/2 MZ": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "418:BOLSAS 50X70": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "419:AZUCAR LA TIKAY X1": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "420:LIMP LIQ HEROE X900 BRISA MAR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "421:MERMELADA FRUTILLA DULCOR FRASCO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "422:MERMELADA HIGO DULCOR FRASCO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "423:MERMELADA DURAZNO DULCOR FRASCO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "424:MERMELADA CIRUELA FRASCO DULCOR": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "425:MERMELADA NARANJA DULCOR FRASCO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "426:MERMELADA DAMASCO DULCOR FRASCO": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "427:PALETA DE CERDO W": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "428:CABO DE MADERA CON ROSCA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "429:SECADOR DE GOMA X40": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "430:CEREAL C/CHOC.X 700": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "431:GARRAPIÑADA X 1 KG.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "432:MANI C/CHOC.X 1 KG.": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "433:ACEITE DE GIRASOL X 5 LTS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "434:VINAGRE X 5 LTS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "435:PROVOLETA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "436:RICOTTA QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "437:LIMPIADOR LIQ.LAVANDA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "438:LIMPIADOR LIQUIDO MARINA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "439:LIMPIADOR LIQUIDO PINO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "440:LIMPIADOR LIQUIDO CITRONELA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "441:SARDO FRESCO ABUELO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "442:NUEZ CUARTA BLANCA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "443:BROCHES DE PELO PLASTICO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "444:FIAMBRE DE PALETA PALADINI X 4.5 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "445:CAFE TOST.MOLIDO X 250 GRS.COLOMBIA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "446:PICADILLO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "447:CREMA X 5 QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "448:BATATA CON CHOCOLATE X 2 KG": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "449:BATATA VLLA.X 2 KG.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "450:MEMBRILLO X 2 KG.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "451:BATATA CON CHOCOLATE X 700": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "452:BATATA VLLA.LATA X 700": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "453:MEMBRILLO LATA X 700": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "454:MERMELADA ARANADANO X 390": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "455:MERMELADA ESNAOLA DURAZNO X 390": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "456:MERMELADA FRUTILLA ESNAOLA X 390": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "457:MERMELADA FRUTOS ROJOS X 390": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "458:CHEESTICK QUESO X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "459:PALITOS KETCHUP X 60 GRS.": {
@@ -1833,10 +2234,12 @@
     },
     "460:AZUCAR LA CAMPECHANA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "461:PANCETA AHUMADA LOPARDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "462:MILAN LOPARDO": {
@@ -1845,10 +2248,12 @@
     },
     "463:JAMON NATURAL LOPARDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "464:ALMENDRAS PELADAS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "465:PAPA X 500 AMANECER": {
@@ -1861,102 +2266,127 @@
     },
     "467:DETERGENTE LIMON SUIZA X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "468:DETERGENTE LIMON SUIZA X 750": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "469:DETERGENTE VERDE SUIZA X 300": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "470:DETERGENTE VERDE SUIZA X 750": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "471:SAL MONOPORCION": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "472:LIMON MINERVA X500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "473:LECHE LARGA VIDA ILOLAY": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "474:CAPSULA CORTADO DOLCE GUSTO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "475:CAPSULA ESPRESSO DOLCE GUSTO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "476:CAPSULA INTENSO LA PL.NESPRESSO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "477:CAPSULA LATTE DOLCE GUSTO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "478:CAPSULA MOKA DOLCE GUSTO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "479:CAPSULA PERU NESPRESSO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "480:CAPSULA VITA NESPRESSO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "481:PEREJIL DESHIDRATADO X25GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "482:FOSFOROS 3 PATITOS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "483:JABON TIRA PATRICIA 3X80": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "484:SARDO FRESCO QUESADA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "485:BOLSAS ZELNOVA 80X110": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "486:BATATA X 500 ESNAOLA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "487:ALBAHACA X 1KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "488:BATATA CAJON ESNAOLA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "489:CALDO DE GALLINA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "490:PALETA COCIDA DON SILVIO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "491:BARRA CABAÑA AZUL": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "492:CREMOSO CABAÑA AZUL": {
@@ -1965,10 +2395,12 @@
     },
     "493:REJILLA COMUN": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "494:MUZZA CABAÑA AZUL": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "495:MUZZA PLANCHA": {
@@ -1977,46 +2409,57 @@
     },
     "496:QUESO DE CERDO LOPARDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "497:CRUDO SOL NACIENTE": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "498:QUESO DE CERDO VICTORIA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "499:SALAMIN LOPARDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "500:BATATA CON CHOC.X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "501:MEMBRILLO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "502:QUESO DE CERDO PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "503:PATE PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "504:PICADILLO PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "505:ACEITE GIRASOL X 900": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "506:CASERITA LOPARDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "507:LONGA NAP.LOPARDO": {
@@ -2025,66 +2468,192 @@
     },
     "508:JAMON COCIDO C/C LOPARDO": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "509:GRANAS P/REPOS.SURT": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "510:GRAGEAS P/REPOSTERIA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "511:CHEESTICK CHEDDAR X265GR": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "512:MICROFIBRA PAÑO 30X40": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "513:MANTECOL CLASICO X 111 GRS.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "514:MANTECOL C/ALM.X 3.4 KG": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "515:MANTECOL CLASICO X 253 GRS.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "516:MANTECOL LINGOTE X 500 GRS.": {
-        "sin_tacc": true,
+        "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "517:CILO CON CHIPS X 300 GRS": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "518:PALITOS SABOR QUESO X 500": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "519:BONDIOLA CONGELADA PALADINI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "495:MUZZA PLANCHA GAUCHITA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "539:CREMOSO GAUCHITA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "540:MUZZARELLA GAUCHITA": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "541:SARDO FRESCO GAUCHITA": {
         "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "364:ROLLO DE COCINA X 12": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "520:FIAMBRE DE PAVO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "521:PICKLES X 2KG": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "522:COSTILLITAS CONG.PALADINI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "523:MEDALLON FELA X 4": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "524:HAMBURGUESA PALADINI X 4": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "525:MEDALLON FELA X 2 UNID.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "526:HAMB. PALADINI X 2 UNID.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "527:PIZZETAS X 20 JAMON Y QUESO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "528:PIZZETA MUZZARELLA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "529:DULCE DE LECHE REP.X 10 KG": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "530:DULCE DE LECHE HELAD.X 10 KG.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "531:DULCE DE LECHE FAM.X 10 KG": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "532:DULCE DE LECHE FAM. X 1 KG.ARR.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "533:DULCE DE LECHE REP. X 5 KG.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "534:COPOS AZUC. NUTRI FLAKES X 400": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "535:EMPANADAS JAMON Y QUESO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "536:EMPANADAS CARNE": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "537:EMPANADAS ESPIN.Y QUESO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "538:FIAMBRE EMP.FELA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "542:FRASCO X 2 DESC CHIRO 000": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "543:NATURA KETCHUP X 250": {
+        "sin_tacc": false,
+        "color": false,
         "img": false
     }
 }
