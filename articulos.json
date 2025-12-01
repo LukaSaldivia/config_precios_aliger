@@ -2660,5 +2660,30 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "395:PALETA EMEZETA GRANDE": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "545:VINAGRE X 900 REY GRANEL": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "546:QUESO AZUL X 180 GRS.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "547:QUESO AZUL MALBEC X 180 GRS.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "548:QUESO AZUL AHUMADO X 180 GRS.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
