@@ -2685,5 +2685,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "549:MANTECOL X 404 GRS.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "550:CRUDO BLOQUE PALADINI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "551:VIENA X 12 LARGAS PALADINI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "552:MORTADELA PISTACHO PALADINI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
