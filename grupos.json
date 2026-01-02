@@ -284,9 +284,14 @@
         "color": false,
         "img": false
     },
-    "La Gauchita" : {
+    "La Gauchita": {
         "sin_tacc": false,
-        "color" : false,
-        "img" : false
+        "color": false,
+        "img": false
+    },
+    "Angelani": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
