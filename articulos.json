@@ -1948,6 +1948,7 @@
     },
     "402:BARRIL MZ": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "403:TRAPO GRIS B-AIRE/JULIET": {
@@ -2747,6 +2748,31 @@
         "img": false
     },
     "561:SALAME ESPAÑOL ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "1:PAPA COMUN X 450": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "562:SALCHICHON CON JAMON EL BIERZO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "563:MEMBRILLO X 500 ESNAOLA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "564:BATATA X 500 DULCOR": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "565:CRUDO ESPUÑA": {
         "sin_tacc": false,
         "color": false,
         "img": false
