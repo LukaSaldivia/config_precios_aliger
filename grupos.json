@@ -293,5 +293,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "El Destino": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
