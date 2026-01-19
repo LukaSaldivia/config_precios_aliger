@@ -298,5 +298,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "Bahia": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
