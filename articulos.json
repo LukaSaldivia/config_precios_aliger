@@ -2801,5 +2801,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "571:ATUN DESMENUZADO BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "572:ATUN LOMITO BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "573:CABALLA BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "574:CHOCLO X 300 BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
