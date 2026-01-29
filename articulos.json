@@ -2821,5 +2821,20 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "573:CABALLA AL NATURAL BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "575:CABALLA AL ACEITE BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "576:CRUDO CON HUESO EMEZETA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
