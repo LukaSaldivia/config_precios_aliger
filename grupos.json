@@ -303,5 +303,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "Frigo 103": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
