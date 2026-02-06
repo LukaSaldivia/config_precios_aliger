@@ -2851,5 +2851,15 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "580:LONGA.PURO CERDO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "581:LONGA NAPOLITANA ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
