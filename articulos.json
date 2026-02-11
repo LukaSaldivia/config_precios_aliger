@@ -2861,5 +2861,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "340:VIENA X 6 PALADINI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
