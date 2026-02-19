@@ -2871,5 +2871,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "571:ATUN DESMENUZADO AL NATURAL BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "572:ATUN LOMITO AL ACEITE BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "582:ATUN DESMENUZADO AL ACEITE BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "583:ATUN LOMITO AL AGUA BAHIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
