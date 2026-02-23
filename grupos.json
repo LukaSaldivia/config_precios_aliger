@@ -308,5 +308,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "Salaberry y Sabio": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }

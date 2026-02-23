@@ -2891,5 +2891,20 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "584:MANTECA X 100 S Y S": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "585:MANTECA X 200 S Y S": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "586:MANTECA PILON COTAMPO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
