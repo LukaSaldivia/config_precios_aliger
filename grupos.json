@@ -313,5 +313,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "Olivares del Cesar": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
