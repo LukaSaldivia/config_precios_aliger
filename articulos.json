@@ -2926,5 +2926,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "590:MORCILLA AL VACIO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
