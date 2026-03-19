@@ -2931,5 +2931,30 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "591:PALETA 214 CHICA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "592:FIAMBRE DE POLLO 214": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "593:SALAMIN GRUESO 214": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "594:SALAMIN FINO 214": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "595:GRANEL VERDE 0 X 180 KG": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
