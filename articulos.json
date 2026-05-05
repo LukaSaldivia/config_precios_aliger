@@ -2976,5 +2976,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "553:ACEITE GIRASOL X 5 LTS": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "598:VINAGRE MANZANA X 250": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "599:BARRA TYBO SPALEN": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "600:CHORIZO COLORADO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
