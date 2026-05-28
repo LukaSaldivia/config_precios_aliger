@@ -3011,5 +3011,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "603:SARDO ESTACIONADO EL DESTINO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "604:PANCETA AHUMADA ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "605:PANCETA SALADA ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "606:GRANEL VERDE RODAJAS": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
