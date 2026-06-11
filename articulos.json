@@ -3041,5 +3041,35 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "609:LIMP LIQUIDO LIMON X 900": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "610:CHORIZO BASTON GRUESO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "611:BASTON PICADO GRUESO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "612:MORCILA RUEDA ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "613:MERMELADA POTE CIRUELA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "614:BIDON NEGRA 00": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
