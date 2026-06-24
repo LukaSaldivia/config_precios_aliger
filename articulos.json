@@ -3071,5 +3071,35 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "615:SAVORA X 2900CC": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "616:DULCE DE LECHE X 400 ARRODUL": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "617:CRUDO PARMA PALADINI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "618:BATATA C/CHOC LATA ESNAOLA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "619:BATATA LATA ESNAOLA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "620:MEMBRILLO LATA ESNAOLA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
