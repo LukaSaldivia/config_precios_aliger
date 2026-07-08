@@ -3101,5 +3101,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "2:POLLO CRIOLLITO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "621:BALDE VERDE 0": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "622:BALDE VERDE 00": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "623:BALDE VERDE RODAJAS": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
