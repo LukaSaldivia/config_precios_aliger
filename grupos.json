@@ -318,5 +318,10 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "Arco de Oro": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }

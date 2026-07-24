@@ -3121,5 +3121,20 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "624:MEMBRILLO ARCO DE ORO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "625:BATATA ARCO DE ORO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "626:BATATA C/CHOC.ARCO DE ORO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
