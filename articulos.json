@@ -3161,5 +3161,30 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "630:PERNIL PLATEADO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "631:BONDIOLA ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "632:YERBA ROSAMONTE X 500": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "633:YERBA ROSAMONTE X 500 SUAVE": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "634:TE EN SAQ.X 25 ROSAMONTE": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
