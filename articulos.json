@@ -3201,5 +3201,50 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "106:BALDE X 5 KG RELLENA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "108:BALDE X 5 KG 3": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "553:ACEITE GIRASOL X 4.5 LTS": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "635:PAPAPS BASTON PRE FRITAS X 1.1 KG.": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "636:MIX PAN DULCE": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "637:FRUTA ESCURRIDA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "638:FRUTA GLASEADA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "639:FRUTA NEVADA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "640:PAVITA SADIA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
