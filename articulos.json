@@ -3246,5 +3246,20 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "641:BALDE VERDE 1": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "642:BALDE VERDE 2": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "643:BALDE VERDE DESC.0": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
