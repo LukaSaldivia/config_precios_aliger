@@ -3291,5 +3291,15 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "499:BASTON COLORADO LARGO": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "610:BASTON GRUESO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
