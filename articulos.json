@@ -3301,5 +3301,25 @@
         "sin_tacc": false,
         "color": false,
         "img": false
+    },
+    "166:LAMPARAS LED 9 W": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "338:LAMPARAS LED 12 W": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "647:PANCETA SALADA CALCHAQUI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "648:LAMPARAS 12 W CALIDA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
     }
 }
