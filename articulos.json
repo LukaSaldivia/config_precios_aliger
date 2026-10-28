@@ -1870,6 +1870,7 @@
     },
     "385:MORTADELA PICCOLA CALCHAQUI": {
         "sin_tacc": false,
+        "color": false,
         "img": false
     },
     "386:PERNIL MINI EMEZETA": {
@@ -3318,6 +3319,31 @@
         "img": false
     },
     "648:LAMPARAS 12 W CALIDA": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "46:CRUDO ANGELANI": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "99:BALDE VERDE DESC 00": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "156:PAPAS PEIPO JAMON SERRANO X 300": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "210:SALCHICHON PRIMAVERA 42": {
+        "sin_tacc": false,
+        "color": false,
+        "img": false
+    },
+    "649:PASTRON PALADINI": {
         "sin_tacc": false,
         "color": false,
         "img": false
